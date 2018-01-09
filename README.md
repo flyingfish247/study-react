@@ -30,6 +30,8 @@ This is a *normal* paragraph:
 
     This is a code block.
 end code block.
+
+```This is a code block.```
 ***
 - 강조표현 :
 
