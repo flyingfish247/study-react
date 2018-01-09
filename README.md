@@ -5,6 +5,6 @@
 * list1
 * list2
 
-function a() {
-  console.log(1);
-}
+  function a() {
+    console.log(1);
+  }
