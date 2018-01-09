@@ -1,20 +1,17 @@
-This is H1
-==========
-This is H1
-----------
 # This is a H1
 ## This is a H2
 ### This is a H3
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
+***
 > This is a blockqute.
 >> This is a blockqute.
 >>> This is a blockqute.
-
 > ### This is a H3
 > - List
 >  This is a blockqute.
+***
 1. 첫 번째
 2. 두 번째
 3. 세 번째
