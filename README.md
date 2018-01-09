@@ -30,6 +30,24 @@ This is a *normal* paragraph:
 
     This is a code block.
 end code block.
+***
+- 강조표현 :
+
+`눈을 감고 아직 여기 서 있어,`
+
+**사막**과 __바다__ 가운데 
+
+*길을* _잃고서_ ++여전히 헤매고 있어++ 
+
+어디로 가야 할지 ~~yeah~~
+
+이리도 많을 줄 몰랐어
+
+가지 못한 길도 갈 수 없는 길도
+
+
+
+
 <br/>
 <br/>
 <br/>
@@ -47,7 +65,10 @@ end code block.
 > text <br/>
 text
 
+
+```js
   function a() {
     console.log(1);
   }
+ ```
   
