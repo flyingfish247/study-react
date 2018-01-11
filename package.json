@@ -1,0 +1,23 @@
+{
+  "name": "study-react",
+  "version": "1.0.0",
+  "description": "* list1\r * list2",
+  "main": "123.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingfish247/study-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyingfish247/study-react/issues"
+  },
+  "homepage": "https://github.com/flyingfish247/study-react#readme",
+  "devDependencies": {
+    "jest": "^22.0.4"
+  }
+}
